@@ -77,7 +77,7 @@ const Index = () => {
   return (
     <>
       <Head>
-        <title>next-pwa example</title>
+        <title>Next-PWA Example</title>
       </Head>
       <h1>Next.js + PWA = AWESOME!</h1>
       <button onClick={subscribeButtonOnClick} disabled={isSubscribed}>
